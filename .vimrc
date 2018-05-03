@@ -14,6 +14,7 @@ set number
 call plug#begin('~/.vim/plugged')
 
 Plug 'pangloss/vim-javascript'
+Plug 'mgechev/vim-jsx'
 
 " Initialize plugin system
 call plug#end()
