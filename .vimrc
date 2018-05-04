@@ -15,6 +15,7 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'pangloss/vim-javascript'
 Plug 'mgechev/vim-jsx'
+Plug 'raimondi/delimitmate'
 
 " Initialize plugin system
 call plug#end()
