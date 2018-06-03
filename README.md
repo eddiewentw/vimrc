@@ -12,3 +12,7 @@ Make my vim editor better.
 ##### Auto completion
 
 - [raimondi/delimitmate](https://github.com/Raimondi/delimitMate)
+
+##### UI
+
+- [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
