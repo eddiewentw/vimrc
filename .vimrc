@@ -29,6 +29,7 @@ Plug 'pangloss/vim-javascript'
 Plug 'mgechev/vim-jsx'
 Plug 'raimondi/delimitmate'
 Plug 'itchyny/lightline.vim'
+Plug 'Valloric/YouCompleteMe'
 
 " Initialize plugin system
 call plug#end()
